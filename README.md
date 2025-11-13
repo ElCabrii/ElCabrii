@@ -3,10 +3,10 @@
 ## 🚀 About Me
 Software developer passionate about creating innovative solutions and learning new technologies.
 
-Studying at Ynov Campus in Toulouse, France, I am currently in my 2rd year of a Bachelor's degree in Computer Science.
+Studying at Ynov Campus in Toulouse, France, I am currently in my 3rd year of a Bachelor's degree in Computer Science.
 
 ## 💻 Tech Stack
-- Languages: Go, Javascript, Typescript, C#, C++, Java, Python, SQL
+- Languages: C++, Go, Javascript, Typescript, C#, C++, Java, Python, SQL
 - Frameworks: React, Node.js, Express, .NET
 - Tools: Docker, Git
 
