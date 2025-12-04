@@ -1,30 +1,163 @@
-# 👋 Hi there! I'm ElCabrii
+<div align="center">
 
-## 🚀 About Me
-Software developer passionate about creating innovative solutions and learning new technologies.
+# Hey, I'm Gabriel de Bure 👋
 
-Studying at Ynov Campus in Toulouse, France, I am currently in my 3rd year of a Bachelor's degree in Computer Science.
+### 🎓 Computer Science Student | 💻 Apprentice Software Developer
 
-## 💻 Tech Stack
-- Languages: C++, Go, Javascript, Typescript, C#, C++, Java, Python, SQL
-- Frameworks: React, Node.js, Express, .NET
-- Tools: Docker, Git
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldebure)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debure.gabriel@gmail.com)
+[![Location](https://img.shields.io/badge/Toulouse-France-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Toulouse,France)
 
-## 🌟 Featured Projects
-- [ChallengeJS](https://github.com/ElCabrii/challengeJs) - This website is a simple web application that allows users to play all kind of games, from the very well-known Skake game to more basic games like Tic Tac Toe. The website is built using the Express.js framework. 
-- [CVMaker](https://github.com/ElCabrii/CVMaker) - This project aims at providing a simple and clean website to generate your CV based on your infos and on the projects you've worked on. 
-- [Speedmaze](https://github.com/ElCabrii/Speedmaze) - The game is a time-based first-person maze challenge. Players must navigate through a series of maze blocks, each containing a green door that acts as a checkpoint. The objective is to solve the maze as quickly as possible while managing a 10-second timer for each block. 
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElCabrii&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/gabrieldebure
-- Twitter: https://x.com/ElCabrii
-- Email: gabriel.debure@ynov.com
-
-## 🤝 Open to Collaborate
-Always interested in working on exciting projects! Feel free to reach out.
+</div>
 
 ---
-⭐️ From [ElCabrii](https://github.com/ElCabrii)
+
+## 🧑‍💻 About Me
+
+```typescript
+const gabriel = {
+    location: "Toulouse, France 🇫🇷",
+    education: "Bachelor's in Computer Science @ Ynov Campus (Master's 2028)",
+    currentRole: "Apprentice Software Developer @ Akkodis High Tech",
+    languages: ["French 🇫🇷", "English 🇬🇧", "Spanish 🇪🇸"],
+    passions: ["Clean Code", "System Architecture", "AI/ML", "Performance Optimization"]
+};
+```
+
+> *More motivated than ever to learn and contribute to building solutions that make a difference.*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Desktop & Game Dev
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐦 Tuums - Social Media Platform
+A full-featured social media platform built with modern technologies.
+
+**Tech:** `NestJS` `Next.js` `tRPC` `PostgreSQL` `Redis` `Azure`
+
+- Built scalable backend with authentication & authorization
+- Migrated from Golang to NestJS for better tRPC integration
+- Real-time features with efficient caching
+
+</td>
+<td width="50%">
+
+### 🤖 ScholAI - AI Learning Assistant
+An AI-powered SaaS helping students learn programming through personalized, teacher-like interactions.
+
+**Tech:** `Next.js` `AI/ML` `TypeScript`
+
+- Personalized learning paths
+- Interactive AI tutor instead of conventional assistants
+- Student progress tracking
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+**🏢 Akkodis High Tech** — *Apprentice Software Developer*
+> Sep 2025 - Present | Toulouse, France
+
+Currently deploying and enhancing the clearance processing tool developed during my internship.
+
+**🔧 Key Achievement during Internship:**
+> Developed an algorithm computing minimum clearance between parts in Digital Mockups for [3DJuump Infinite](https://www.3djumpp.com/) — trusted by **Airbus**, **SAFRAN**, **Alstom**, and more.
+> 
+> ⚡ *Performance: Processing 50k+ parts in just 5 seconds*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElCabrii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCabrii&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📜 Certifications & Achievements
+
+| 🏆 Achievement | 📅 Year |
+|----------------|---------|
+| Cambridge English: Advanced (CAE) | 2021 |
+| TOEIC (Mock tests ~910) | 2025 |
+| Coding Bootcamp - 2nd Place 🥈 | 2025 |
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇫🇷 French | Native |
+| 🇬🇧 English | Fluent |
+| 🇪🇸 Spanish | Intermediate |
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.*
+
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20de%20Bure-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldebure)
+[![GitHub](https://img.shields.io/badge/-ElCabrii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ElCabrii)
+[![Email](https://img.shields.io/badge/-debure.gabriel@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:debure.gabriel@gmail.com)
+
+---
+
+*⭐ From [ElCabrii](https://github.com/ElCabrii) with ❤️*
+
+</div>
