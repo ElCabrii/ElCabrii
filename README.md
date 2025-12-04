@@ -109,7 +109,7 @@ An AI-powered SaaS helping students learn programming through personalized, teac
 Currently deploying and enhancing the clearance processing tool developed during my internship.
 
 **🔧 Key Achievement during Internship:**
-> Developed an algorithm computing minimum clearance between parts in Digital Mockups for [3DJuump Infinite](https://www.3djumpp.com/) — trusted by **Airbus**, **SAFRAN**, **Alstom**, and more.
+> Developed an algorithm computing minimum clearance between parts in Digital Mockups for [3DJuump Infinite](https://www.3djuump.com/) — trusted by **Airbus**, **SAFRAN**, **Alstom**, and more.
 > 
 > ⚡ *Performance: Processing 50k+ parts in just 5 seconds*
 
