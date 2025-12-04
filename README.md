@@ -119,8 +119,14 @@ Currently deploying and enhancing the clearance processing tool developed during
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElCabrii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCabrii&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- GitHub Streak Stats - More reliable -->
+<img src="https://streak-stats.demolab.com?user=ElCabrii&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<!-- GitHub Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=ElCabrii&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElCabrii&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
